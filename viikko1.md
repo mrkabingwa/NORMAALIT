@@ -47,11 +47,13 @@ Kiinnostuksen kohteitani ovat:
 
 ---
 
-### Koodilohko: Python-tervehdys
+### Koodilohko: Bash-esimerkki
 
-```python
-def tervehdys(nimi):
-    print(f"Hei, {nimi}! Tervetuloa Markdown-maailmaan.")
+git clone https://github.com/mrkabingwa/repo.git
+cd repo
+git add .
+git commit -m "Lisätty viikko1.md"
+git push origin main
 
 
 ---
