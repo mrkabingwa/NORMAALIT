@@ -50,9 +50,13 @@ Kiinnostuksen kohteitani ovat:
 # Tämä on esimerkki bash-koodilohkosta
 
 git clone https://github.com/mrkabingwa/repo.git
+
 cd repo
+
 git add 
-git commit -m "Lisätty opiskelutodistus"
+
+git commit -m "Lisätty viikko1.md "
+
 git push origin main
 
 ---
