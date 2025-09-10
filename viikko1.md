@@ -47,14 +47,13 @@ Kiinnostuksen kohteitani ovat:
 
 ---
 
-### Koodilohko: Bash-esimerkki
+# Tämä on esimerkki bash-koodilohkosta
 
 git clone https://github.com/mrkabingwa/repo.git
 cd repo
-git add .
-git commit -m "Lisätty viikko1.md"
+git add 
+git commit -m "Lisätty opiskelutodistus"
 git push origin main
-
 
 ---
 
